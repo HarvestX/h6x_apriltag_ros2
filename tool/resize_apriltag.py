@@ -87,8 +87,8 @@ def process_images_in_directory(
 
 
 if __name__ == "__main__":
-    INPUT_DIRECTORY = '36h11_original'
-    OUTPUT_DIRECTORY = '36h11_60x60'
+    INPUT_DIRECTORY = 'tag36h11_in'
+    OUTPUT_DIRECTORY = 'tag36h11_out'
     NEW_WIDTH_MM = 60
     NEW_HEIGHT_MM = 60
     DPI = 300
